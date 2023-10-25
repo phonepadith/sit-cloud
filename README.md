@@ -4,3 +4,6 @@
 * git add .
 * git commit -m "update readme file"
 * git push
+* git branch prod
+* git checkout prod
+* git push --set-upstream origin prod
