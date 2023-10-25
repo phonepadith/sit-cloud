@@ -7,3 +7,5 @@
 * git branch prod
 * git checkout prod
 * git push --set-upstream origin prod
+* git branch dev
+* git checkout dev
